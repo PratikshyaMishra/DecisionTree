@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<tree>
+<declarations>
+<attributeDecl name="name" type="String" />
+</declarations>
+<branch>
+<attribute name="position" value="2" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<branch>
+<attribute name="position" value="2  Nucleotide  G" />
+<branch>
+<attribute name="position" value="5  Nucleotide  A" />
+<branch>
+<attribute name="position" value="1  Nucleotide  A" />
+<branch>
+<attribute name="position" value="0  Nucleotide  A" />
+<branch>
+<attribute name="position" value="6  Nucleotide  A" />
+<branch>
+<attribute name="position" value="7  Nucleotide  A" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<branch>
+<attribute name="position" value="0  Nucleotide  C" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<branch>
+<attribute name="position" value="7  Nucleotide  C" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<branch>
+<attribute name="position" value="6  Nucleotide  C" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<branch>
+<attribute name="position" value="7  Nucleotide  G" />
+<branch>
+<attribute name="position" value="6  Nucleotide  A" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<branch>
+<attribute name="position" value="6  Nucleotide  T" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<branch>
+<attribute name="position" value="0  Nucleotide  T" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<branch>
+<attribute name="position" value="7  Nucleotide  T" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<branch>
+<attribute name="position" value="6  Nucleotide  C" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<branch>
+<attribute name="position" value="6  Nucleotide  T" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+</branch>
+</branch>
+</branch>
+<branch>
+<attribute name="position" value="1  Nucleotide  C" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<branch>
+<attribute name="position" value="0  Nucleotide  T" />
+<branch>
+<attribute name="position" value="6  Nucleotide  A" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<branch>
+<attribute name="position" value="7  Nucleotide  G" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+</branch>
+<branch>
+<attribute name="position" value="1  Nucleotide  G" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<branch>
+<attribute name="position" value="0  Nucleotide  T" />
+<branch>
+<attribute name="position" value="6  Nucleotide  A" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<branch>
+<attribute name="position" value="7  Nucleotide  G" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+</branch>
+<branch>
+<attribute name="position" value="1  Nucleotide  T" />
+<branch>
+<attribute name="position" value="0  Nucleotide  A" />
+<branch>
+<attribute name="position" value="6  Nucleotide  A" />
+<branch>
+<attribute name="position" value="7  Nucleotide  A" />
+<leaf>
+<attribute name="Nucleotide" value="A" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="C" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="G" />
+</leaf>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+<leaf>
+<attribute name="Nucleotide" value="T" />
+</leaf>
+</branch>
+</tree>
